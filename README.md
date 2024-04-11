@@ -1,2 +1,2 @@
 # Currency-Converter
-API that returns currency conversions
+API that returns currency conversions usinf Python  :)
